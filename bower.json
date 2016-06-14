@@ -1,0 +1,11 @@
+{
+  "name": "RS card",
+  "description": "",
+  "version": "0.1.0",
+  "homepage": "",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}

@@ -1,0 +1,12 @@
+##################################################################
+###Files and Folder that you want to exclude from your git Repo###
+##################################################################
+.idea
+.DS_Store
+node_modules
+src/external/components
+
+
+##Temperory Excluded structure
+RScard_files/
+RScard.htm
